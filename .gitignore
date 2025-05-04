@@ -52,3 +52,14 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio local history and settings
+.vs/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# Web Forms auto-generated
+*.designer.cs
