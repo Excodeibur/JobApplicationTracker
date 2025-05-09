@@ -62,7 +62,9 @@
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
+                    <td>
+                        <asp:Label ID="Label1" runat="server" ForeColor="Lime" Text="Message"></asp:Label>
+                    </td>
                     <td>
                         <asp:Button ID="Button1" runat="server" Text="Insert" />
                     </td>
